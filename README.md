@@ -6,9 +6,7 @@ Rotate, zoom, and tilt the Earth; search places; jump by coordinates; drop marke
 
 **https://rsasaki0109.github.io/earth-viewer/**
 
-> **Screenshot**
->
-> _Add a screenshot or short GIF here after the first deploy._
+[![EarthViewer screenshot](docs/screenshot.jpg)](https://rsasaki0109.github.io/earth-viewer/)
 
 ## Features
 
